@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/admin/Documents/github/pet_project_EarthQuake/venvbin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.autoComplete.addBrackets": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
